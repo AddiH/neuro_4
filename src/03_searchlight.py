@@ -11,7 +11,7 @@ from sklearn.naive_bayes import GaussianNB
 import pickle
 
 # Saving the objects:
-f = open('../data/02_searchlight_prep.pkl', 'rb')
+f = open('../data/PvsN_02_searchlight_prep.pkl', 'rb')
 fmri_img_train, fmri_img_test, idx_train,idx_test, conditions_train, conditions_test = pickle.load(f)
 f.close()
 
@@ -42,6 +42,6 @@ searchlight.fit(fmri_img_train, conditions_train)
 print("Saving Searchlight")
 
 # Saving the objects:
-f = open('../data/searchlight.pkl', 'wb')
+f = open('../data/PvsN_searchlight.pkl', 'wb')
 pickle.dump([searchlight, searchlight.scores_], f)
 f.close()
