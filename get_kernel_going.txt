@@ -1,5 +1,0 @@
-Nothing is perfect :')
-
-1) In a ipynb -> Select kernel -> install suggested extensions "Jupyter" and "Python"
-2) From folder adv_neuro, run activate_kernel.sh
-3) In the ipynb -> Select kernel -> Jupyter kernel -> Use the refresh icon as needed
