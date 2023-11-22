@@ -1,0 +1,12 @@
+cluster_id,peak_x,peak_y,peak_z,peak_value,volume_mm,aal,desikan_killiany,harvard_oxford
+1.0,-45.0,-14.760000228881836,53.894999742507935,0.7571428418159485,325.49438470602036,Postcentral_L,Unknown,43.0% Left_Precentral_Gyrus; 27.0% Left_Postcentral_Gyrus
+2.0,-59.0,-14.760000228881836,10.906999826431274,0.7188423871994019,98.31648570299149,Temporal_Sup_L,Unknown,55.0% Left_Central_Opercular_Cortex; 14.0% Left_Planum_Temporale; 6.0% Left_Heschl's_Gyrus_(includes_H1_and_H2); 5.0% Left_Planum_Polare
+3.0,54.0,-6.944000244140625,48.032999753952026,0.7076354622840881,5.727173924446106,Precentral_R,ctx-rh-precentral,62.0% Right_Precentral_Gyrus; 23.0% Right_Postcentral_Gyrus
+4.0,-60.0,-22.576000213623047,46.078999757766724,0.7052955627441406,5.727173924446106,Parietal_Inf_L,Unknown,50.0% Left_Postcentral_Gyrus; 11.0% Left_Supramarginal_Gyrus_anterior_division
+5.0,-63.0,1.8489997386932373,25.561999797821045,0.7013546824455261,4.772644937038422,Precentral_L,Unknown,31.0% Left_Precentral_Gyrus
+6.0,-63.0,-17.69100022315979,17.745999813079834,0.687438428401947,3.8181159496307373,Postcentral_L,Unknown,62.0% Left_Postcentral_Gyrus; 15.0% Left_Central_Opercular_Cortex; 5.0% Left_Supramarginal_Gyrus_anterior_division
+7.0,-59.0,-23.5530002117157,45.10199975967407,0.6951970458030701,2.863586962223053,Parietal_Inf_L,Unknown,52.0% Left_Postcentral_Gyrus; 17.0% Left_Supramarginal_Gyrus_anterior_division
+8.0,-60.0,-22.576000213623047,49.98699975013733,0.6912561655044556,2.863586962223053,no_label,Unknown,30.0% Left_Postcentral_Gyrus
+9.0,-34.0,-27.461000204086304,70.50399971008301,0.690517246723175,1.9090579748153687,Postcentral_L,Unknown,44.0% Left_Postcentral_Gyrus; 22.0% Left_Precentral_Gyrus
+10.0,-46.0,-25.507000207901,65.61899971961975,0.690640389919281,1.9090579748153687,Postcentral_L,Unknown,29.0% Left_Postcentral_Gyrus
+11.0,-48.0,-26.484000205993652,65.61899971961975,0.690763533115387,1.9090579748153687,no_label,Unknown,11.0% Left_Postcentral_Gyrus

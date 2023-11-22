@@ -25,3 +25,4 @@ trame
 vtk
 trame-vtk
 tqdm
+atlasreader
